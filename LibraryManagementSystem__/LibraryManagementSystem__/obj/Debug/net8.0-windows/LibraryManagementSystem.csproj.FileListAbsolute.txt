@@ -1,0 +1,52 @@
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.exe
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.deps.json
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.pdb
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem__.FormBooks.resources
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem__.FormLogin.resources
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryM.4D120AE7.Up2Date
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\refint\LibraryManagementSystem.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.pdb
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\ref\LibraryManagementSystem.dll
+C:\Users\Arda\source\repos\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.exe
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.deps.json
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.runtimeconfig.json
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\LibraryManagementSystem.pdb
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem__.FormBooks.resources
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem__.FormLogin.resources
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.Properties.Resources.resources
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.AssemblyInfo.cs
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryM.4D120AE7.Up2Date
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\refint\LibraryManagementSystem.dll
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.pdb
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\LibraryManagementSystem.genruntimeconfig.cache
+C:\Yazılım Notlar\C++ And C#\LibraryManagementSystem__\LibraryManagementSystem__\obj\Debug\net8.0-windows\ref\LibraryManagementSystem.dll

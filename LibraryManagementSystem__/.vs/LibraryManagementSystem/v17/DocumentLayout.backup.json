@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Monster Flash\\Yaz\u0131l\u0131m Notlar\\C\u002B\u002B And C#\\LibraryManagementSystem__\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E48FD4F-AD53-4915-96E9-65A592A4CC1D}|LibraryManagementSystem__\\LibraryManagementSystem.csproj|c:\\monster flash\\yaz\u0131l\u0131m notlar\\c\u002B\u002B and c#\\librarymanagementsystem__\\librarymanagementsystem__\\formbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E48FD4F-AD53-4915-96E9-65A592A4CC1D}|LibraryManagementSystem__\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem__\\formbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E48FD4F-AD53-4915-96E9-65A592A4CC1D}|LibraryManagementSystem__\\LibraryManagementSystem.csproj|C:\\Monster Flash\\Yaz\u0131l\u0131m Notlar\\C\u002B\u002B And C#\\LibraryManagementSystem__\\librarymanagementsystem__\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E48FD4F-AD53-4915-96E9-65A592A4CC1D}|LibraryManagementSystem__\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem__\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Monster Flash\\Yaz\u0131l\u0131m Notlar\\C\u002B\u002B And C#\\LibraryManagementSystem__\\LibraryManagementSystem__\\FormLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem__\\FormLogin.cs",
+              "ToolTip": "C:\\Monster Flash\\Yaz\u0131l\u0131m Notlar\\C\u002B\u002B And C#\\LibraryManagementSystem__\\LibraryManagementSystem__\\FormLogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem__\\FormLogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:16:25.561Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBooks.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Monster Flash\\Yaz\u0131l\u0131m Notlar\\C\u002B\u002B And C#\\LibraryManagementSystem__\\LibraryManagementSystem__\\FormBooks.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem__\\FormBooks.cs",
+              "ToolTip": "C:\\Monster Flash\\Yaz\u0131l\u0131m Notlar\\C\u002B\u002B And C#\\LibraryManagementSystem__\\LibraryManagementSystem__\\FormBooks.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibraryManagementSystem__\\FormBooks.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:08:34.903Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

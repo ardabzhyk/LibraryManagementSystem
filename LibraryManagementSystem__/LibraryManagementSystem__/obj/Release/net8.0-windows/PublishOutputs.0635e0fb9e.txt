@@ -1,0 +1,11 @@
+C:\Users\Arda\Desktop\projeler\C#\LibraryManagementSystem.exe
+C:\Users\Arda\Desktop\projeler\C#\LibraryManagementSystem.dll
+C:\Users\Arda\Desktop\projeler\C#\LibraryManagementSystem.deps.json
+C:\Users\Arda\Desktop\projeler\C#\LibraryManagementSystem.runtimeconfig.json
+C:\Users\Arda\Desktop\projeler\C#\LibraryManagementSystem.pdb
+C:\Users\Arda\Desktop\projeler\C#\System.Data.SqlClient.dll
+C:\Users\Arda\Desktop\projeler\C#\runtimes\win-arm64\native\sni.dll
+C:\Users\Arda\Desktop\projeler\C#\runtimes\win-x64\native\sni.dll
+C:\Users\Arda\Desktop\projeler\C#\runtimes\win-x86\native\sni.dll
+C:\Users\Arda\Desktop\projeler\C#\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arda\Desktop\projeler\C#\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
